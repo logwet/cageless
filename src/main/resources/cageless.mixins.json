@@ -4,6 +4,7 @@
   "package": "me.logwet.cageless.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "common.ServerLevelMixin"
   ],
   "client": [
   ],
